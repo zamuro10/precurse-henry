@@ -1,2 +1,1 @@
-# precurse-henry
-Este un repositorio de prueba del modulo 2 de henry
+Este es un proyecto de pueba de como crear un repositorio y clonarlo desde githuba mi computadora
